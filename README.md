@@ -1,13 +1,13 @@
 # Garis Kemiskinan, Jumlah dan Persentase Penduduk Tidak Miskin Menurut Kabupaten/Kota
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/ketimpangan-regional/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/ketimpangan-regional/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/bantenprov/ketimpangan-regional/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/ketimpangan-regional/build-status/master)
-[![Latest Stable Version](https://poser.pugx.org/bantenprov/ketimpangan-regional/v/stable)](https://packagist.org/packages/bantenprov/ketimpangan-regional)
-[![Total Downloads](https://poser.pugx.org/bantenprov/ketimpangan-regional/downloads)](https://packagist.org/packages/bantenprov/ketimpangan-regional)
-[![Latest Unstable Version](https://poser.pugx.org/bantenprov/ketimpangan-regional/v/unstable)](https://packagist.org/packages/bantenprov/ketimpangan-regional)
-[![License](https://poser.pugx.org/bantenprov/ketimpangan-regional/license)](https://packagist.org/packages/bantenprov/ketimpangan-regional)
-[![Monthly Downloads](https://poser.pugx.org/bantenprov/ketimpangan-regional/d/monthly)](https://packagist.org/packages/bantenprov/ketimpangan-regional)
-[![Daily Downloads](https://poser.pugx.org/bantenprov/ketimpangan-regional/d/daily)](https://packagist.org/packages/bantenprov/ketimpangan-regional)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/indeks-ketimpangan-regional/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/indeks-ketimpangan-regional/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/bantenprov/indeks-ketimpangan-regional/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/indeks-ketimpangan-regional/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/bantenprov/indeks-ketimpangan-regional/v/stable)](https://packagist.org/packages/bantenprov/indeks-ketimpangan-regional)
+[![Total Downloads](https://poser.pugx.org/bantenprov/indeks-ketimpangan-regional/downloads)](https://packagist.org/packages/bantenprov/indeks-ketimpangan-regional)
+[![Latest Unstable Version](https://poser.pugx.org/bantenprov/indeks-ketimpangan-regional/v/unstable)](https://packagist.org/packages/bantenprov/indeks-ketimpangan-regional)
+[![License](https://poser.pugx.org/bantenprov/indeks-ketimpangan-regional/license)](https://packagist.org/packages/bantenprov/indeks-ketimpangan-regional)
+[![Monthly Downloads](https://poser.pugx.org/bantenprov/indeks-ketimpangan-regional/d/monthly)](https://packagist.org/packages/bantenprov/indeks-ketimpangan-regional)
+[![Daily Downloads](https://poser.pugx.org/bantenprov/indeks-ketimpangan-regional/d/daily)](https://packagist.org/packages/bantenprov/indeks-ketimpangan-regional)
 
 Garis Kemiskinan, Jumlah dan Persentase Penduduk Tidak Miskin Menurut Kabupaten/Kota
 
