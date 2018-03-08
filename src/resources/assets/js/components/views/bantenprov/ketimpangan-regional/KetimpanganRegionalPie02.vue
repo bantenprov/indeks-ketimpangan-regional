@@ -72,7 +72,7 @@ export default {
         series: [{
           type:'pie',
           data:[].sort(function (a, b) { return a.value - b.value; }),
-          radius: '55%',
+          radius: '40%',
           roseType: 'radius',
           cursor: 'default',
           itemStyle: {

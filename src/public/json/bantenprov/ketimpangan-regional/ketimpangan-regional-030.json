@@ -1,59 +1,230 @@
 [
   {
     "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2011",
-      "title": "Rasio Grup Kesenian Provinsi Banten",
+      "title": "Indeks Ketimpangan Regional (PDRB adhb) 2010",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
       ]
     },
     "series": [
       {
         "data": [
-          7.92,
-          7.95,
-          8.06,
-          8.17,
-          8.19,
-          8.27
+          0.7741,
+          0.4859
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Negara Indonesia",
-      "yyyy": "2011",
+      "title": "Indeks Ketimpangan Regional (PDRB adhb) 2011",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
       ]
     },
     "series": [
       {
         "data": [
-          7.46,
-          7.52,
-          7.59,
-          7.61,
-          7.73,
-          7.84
+          0.7670,
+          0.4934
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhb) 2012",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7740,
+          0.4979
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhb) 2013",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7760,
+          0.4891
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhb) 2014",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7797,
+          0.5211
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhb) 2015",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7816,
+          0.5383
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhk 2010) 2010",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7741,
+          0.4859
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhk 2010) 2011",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7728,
+          0.4901
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhk 2010) 2012",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7815,
+          0.4962
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhk 2010) 2013",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7832,
+          0.4823
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhk 2010) 2014",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7760,
+          0.4826
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Indeks Ketimpangan Regional (PDRB adhk 2010) 2015",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Seluruh Lapangan Usaha",
+        "Tanpa Industri Pengolahan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.7708,
+          0.4807
         ]
       }
     ]
   }
-]
+  ]
