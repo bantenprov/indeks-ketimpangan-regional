@@ -5,7 +5,7 @@ namespace Bantenprov\KetimpanganRegional\Http\Controllers;
 /* Require */
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bantenprov\BudgetAbsorption\Facades\KetimpanganRegionalFacade;
+use Bantenprov\KetimpanganRegional\Facades\KetimpanganRegionalFacade;
 
 /* Models */
 use Bantenprov\KetimpanganRegional\Models\Bantenprov\KetimpanganRegional\KetimpanganRegional;
