@@ -1,9 +1,8 @@
 <template>
   <div class="card">
     <div class="card-header">
-      <i class="fa fa-table" aria-hidden="true"></i> Edit Rasio Grup Kesenian
-
-      <ul class="nav nav-pills card-header-pills pull-right">
+      <i class="fa fa-table" aria-hidden="true"></i> Edit Indeks Ketimpangan Regional
+            <ul class="nav nav-pills card-header-pills pull-right">
         <li class="nav-item">
           <button class="btn btn-primary btn-sm" role="button" @click="back">
             <i class="fa fa-arrow-left" aria-hidden="true"></i>
