@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            ndeks Ketimpangan Regional Berdasarkan PDRB adbh dan adhk 
+            Indeks Ketimpangan Regional Berdasarkan PDRB adbh dan adhk 
           </div>
           <div class="card-body">
             <ketimpangan-regional-pie-02></ketimpangan-regional-pie-02>
